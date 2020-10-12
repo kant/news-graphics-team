@@ -20,7 +20,7 @@ This list focuses not on their [projects](https://github.com/wbkd/awesome-intera
 ### What information should I add?
 - **Name** of the newsroom. The list is currently sorted alphabetically, with reporters and editors sorted by their first name.
 - **Location and links to the graphics departments on Twitter | Website | Blog | Github**
-- **Links to specific blog posts/videos/interviews** that show how data vis people in this newsroomn are working. Links should give insight into the process of past projects, general principles and approaches to problems, which tools are used etc.
+- **Links to specific blog posts/videos/interviews** that show how data vis people in this newsroom are working. Links should give insight into the process of past projects, general principles and approaches to problems, which tools are used etc.
 - **Team members and links to their Twitter account** who currently create charts/graphics/data visualizations in these newsrooms on a regular basis. Alumni, interns and fellows shoudl not be added.
 
 <br><br>
